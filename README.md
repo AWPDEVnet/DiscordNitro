@@ -1,2 +1,3 @@
-# DiscordNitro
-Makes discord nitro codes and sends them to a webhook of ur choosing
+# Dicord Nitro Gen
+
+This python scipt makes Discord nitro codes and sends them throuth a webhook so you can instantly claim them.
