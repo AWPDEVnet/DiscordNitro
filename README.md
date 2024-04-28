@@ -1,4 +1,5 @@
 # Dicord Nitro Gen
+![hukybdgsd](https://github.com/AWPDEVnet/DiscordNitro/assets/99396521/ccf7ff42-c0a3-4fe6-bbbc-e8b52b888d72)
 
 Made with Python
 
